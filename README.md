@@ -37,7 +37,7 @@ VKMessageDumper — консольная утилита на Python для вы�
 
 ```bash
 git clone https://github.com/DeezLikerStudio/VKMessageDumper.git
-cd VKDumper
+cd VKMessageDumper
 pip install -r requirements.txt
 python VKDumper.py
 ```
