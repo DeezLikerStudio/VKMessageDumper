@@ -1,0 +1,17 @@
+token.json
+resume_state.json
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+build/
+dist/
+*.exe
+*.spec
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
