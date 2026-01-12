@@ -1,4 +1,4 @@
-# VKMessageDumperDumper
+# VKMessageDumper
 
 VKMessageDumper — консольная утилита на Python для выгрузки фотографий из диалогов и бесед ВКонтакте.
 
